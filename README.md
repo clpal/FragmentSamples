@@ -1,4 +1,4 @@
 # MyStaticFragment'
 ##### <b> Attaching some screenshots: </b> 
 
-<img src = "screenshots/image.jpg" width = "250" /> 
+<img src = "screenshots/staticfrag.jpg" width = "250" /> 
