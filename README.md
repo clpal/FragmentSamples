@@ -1,4 +1,4 @@
 # KotlinFragmentSamples
 ##### <b> Attaching some screenshots: </b> 
 
-<img src = "screenshots/image.png" width = "250" /> 
+<img src = "screenshots/image.jpg" width = "250" /> 
