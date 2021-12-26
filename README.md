@@ -1,6 +1,8 @@
 # KotlinFragmentSamples
- #ChangeableFragment
-#
+# ChangeableFragment
+# MyStaticFragment
+# TabActvityFragment
+
 ##### <b> Attaching some screenshots: </b> 
 
 <img src = "screenshots/image.jpg" width = "250" /> 
